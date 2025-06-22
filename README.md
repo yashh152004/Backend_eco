@@ -41,7 +41,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/yashh152004/ecommerce-backend.git
+git clone https://github.com/yashh152004/Backend_eco.git
 Configure MySQL Database
 
 Update your application.properties:
