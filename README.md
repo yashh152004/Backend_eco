@@ -2,7 +2,7 @@
 This is a robust and modular backend API for an E-Commerce platform developed using Spring Boot. It handles core functionalities such as product management, user authentication, order processing, and more. Designed with scalability and clean architecture in mind, it serves as the backbone for any modern e-commerce application.
 
 ✅ Features
-🧾 User Authentication & Authorization (JWT-based)
+
 
 📦 Product Management (CRUD for items)
 
