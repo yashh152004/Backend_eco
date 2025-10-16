@@ -3,7 +3,6 @@ This is a robust and modular backend API for an E-Commerce platform developed us
 
 ✅ Features
 
-
 📦 Product Management (CRUD for items)
 
 🛍️ Cart & Wishlist functionality
